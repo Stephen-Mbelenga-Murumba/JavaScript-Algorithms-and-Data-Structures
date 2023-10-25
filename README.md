@@ -1,1 +1,1 @@
-freeCodeCamp JS Data Structures and Algorithms Course including projects.
+freeCodeCamp JS Algorithms and Data Structures Certification including projects.
